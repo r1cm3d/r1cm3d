@@ -2,6 +2,7 @@ I'm a software engineer passionate about operational systems, system programming
 
 I'm currently focused on my Bachelor's Degree in Physics, centralizing my studies and templates in my [Obsidian Vault](https://github.com/r1cm3d/Obsidian-Vault). On the side-project front, I've been deep diving into building a Small Language Model from scratch in [Rust](https://www.rust-lang.org/) — training on Rick and Morty transcripts with a full GPT-style transformer architecture:
 
+- [faraday](https://github.com/r1cm3d/faraday): A Rust CLI tool for communicating with Ford Fusion 2017 SEL via OBD-II, performing diagnostics and configuration through FORScan-compatible adapters using CAN bus protocols;
 - [microverse-model](https://github.com/r1cm3d/microverse-model): Microverse-LM is a Small Language Model built from scratch in [Rust](https://www.rust-lang.org/), evolving from LSTM to a full GPT-style transformer architecture with plans for voice synthesis integration;
 - [Obsidian-Vault](https://github.com/r1cm3d/Obsidian-Vault): My Bachelor's Degree in Physics studies, notes, and templates;
 - [dotfiles](https://github.com/r1cm3d/dotfiles): It contains my configuration files (dotfiles). Besides that, it also has my own functions, aliases and environment variables;
